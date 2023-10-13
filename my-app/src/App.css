@@ -1,0 +1,17 @@
+.wrapper {
+  width: 156px;
+}
+.grid {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  display: inline-block;
+  text-align: center;
+  font-size: 36px;
+}
+.result {
+  width: 156px;
+  text-align: center;
+  padding: top 10px;
+  font-size: 18px;
+}
